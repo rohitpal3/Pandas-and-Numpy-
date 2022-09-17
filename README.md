@@ -1,5 +1,7 @@
 # Pandas-and-Numpy-
-Important Function 
+Important Function </br>
+df=pd.read_csv('../input/zomato-bangalore-restaurants/zomato.csv')</br>
+df.head()</br>
 1.pd.read_cv</br>
 2.df.head()</br>
 3.df.shape() or df.info() or df.column</br>
